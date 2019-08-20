@@ -39,7 +39,7 @@ void printStart(const int numb)
 }
 
 
-void printEnd(int numb)
+void printEnd(const int numb)
 {
 	std::cout<<"\nEnd of exercise number "<< numb << " ----------------------\n";
 	std::cout<<"-----------------------------------------------\n\n";
@@ -197,6 +197,16 @@ void exercise4(const int number)
 	std::cout<< "Vector -> Access time to 500000 element: " << elapsed.count() << std::endl;
 	elapsed *= 1000;
 	std::cout<< "Vector -> Time multiplying by 1000, to better show time: " << elapsed.count() << std::endl;
+
+/*
+List -> Time of adding 1000000 elements: 0.120585
+List -> 500 000 element: 500000
+List -> Access time to 500000 element: 0.00341484
+Vector -> Time of adding 1000000 elements: 0.0220569
+Vector -> 500 000 element: 500000
+Vector -> Access time to 500000 element: 4.1633e-05
+Vector -> Time multiplying by 1000, to better show time: 0.041633
+*/
 
 	printEnd(number);
 }
