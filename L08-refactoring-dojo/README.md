@@ -35,7 +35,8 @@ Materiały z kursu C++ (Lipiec 2019 - Wrzesień 2019)
   <img src="foto/03a_refinement.jpg" width="250px" /> <img src="foto/04a_planning.jpg" width="250px" />
 - [10.09.2019 Powtórka z dobrych praktyk i nowoczesnego C++](https://www.youtube.com/watch?v=ETixmKJtP1g&list=PLQqoaQUqs4DCaFPwa3qfVlJc9YOfZkPAO&index=39)
 - [10.09.2019 Planowanie](https://www.youtube.com/watch?v=2MssPK62mpk&list=PLQqoaQUqs4DCaFPwa3qfVlJc9YOfZkPAO&index=40)
-- [10.09.2019 Wybór ćwiczenia, rozpiska zadań](https://www.youtube.com/watch?v=omODEtcbieM&list=PLQqoaQUqs4DCaFPwa3qfVlJc9YOfZkPAO&index=40)
+- [10.09.2019 Wybór ćwiczenia, rozpiska zadań](https://www.youtube.com/watch?v=omODEtcbieM&list=PLQqoaQUqs4DCaFPwa3qfVlJc9YOfZkPAO&index=41)
+- [07.09.2019 Coding Dojo - Soundex](https://www.youtube.com/watch?v=Jj1MdclYfhs&list=PLQqoaQUqs4DCaFPwa3qfVlJc9YOfZkPAO&index=42)
 
 ### Post-work
 

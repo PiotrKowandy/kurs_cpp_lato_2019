@@ -52,6 +52,6 @@ Materiały z kursu C++ (Lipiec 2019 - Wrzesień 2019)
 
 ### Post-work
 
-- [ ] Dokończ zadania z [modern_cpp](https://github.com/coders-school/modern_cpp)
+- [ ] Dokończ zadania z [modern_cpp](https://github.com/coders-school/modern_cpp) (1 punkt za każde zadanie)
 - [ ] Dokończ refaktor [kodu](exercises/1-file-reader/main.cpp)
 - [ ] (Optional) Zrób refaktor [kodu](exercises/2-zip-file-reader/main.cpp)
